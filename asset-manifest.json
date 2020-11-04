@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/OlaFro/React-CardDeck-App/static/css/main.2a233e95.chunk.css",
-    "main.js": "/OlaFro/React-CardDeck-App/static/js/main.15c2b520.chunk.js",
-    "main.js.map": "/OlaFro/React-CardDeck-App/static/js/main.15c2b520.chunk.js.map",
-    "runtime-main.js": "/OlaFro/React-CardDeck-App/static/js/runtime-main.083384f4.js",
-    "runtime-main.js.map": "/OlaFro/React-CardDeck-App/static/js/runtime-main.083384f4.js.map",
-    "static/js/2.f4709cbe.chunk.js": "/OlaFro/React-CardDeck-App/static/js/2.f4709cbe.chunk.js",
-    "static/js/2.f4709cbe.chunk.js.map": "/OlaFro/React-CardDeck-App/static/js/2.f4709cbe.chunk.js.map",
-    "index.html": "/OlaFro/React-CardDeck-App/index.html",
-    "static/css/main.2a233e95.chunk.css.map": "/OlaFro/React-CardDeck-App/static/css/main.2a233e95.chunk.css.map",
-    "static/js/2.f4709cbe.chunk.js.LICENSE.txt": "/OlaFro/React-CardDeck-App/static/js/2.f4709cbe.chunk.js.LICENSE.txt"
+    "main.css": "/React-CardDeck-App/static/css/main.2a233e95.chunk.css",
+    "main.js": "/React-CardDeck-App/static/js/main.15c2b520.chunk.js",
+    "main.js.map": "/React-CardDeck-App/static/js/main.15c2b520.chunk.js.map",
+    "runtime-main.js": "/React-CardDeck-App/static/js/runtime-main.61e2177c.js",
+    "runtime-main.js.map": "/React-CardDeck-App/static/js/runtime-main.61e2177c.js.map",
+    "static/js/2.f4709cbe.chunk.js": "/React-CardDeck-App/static/js/2.f4709cbe.chunk.js",
+    "static/js/2.f4709cbe.chunk.js.map": "/React-CardDeck-App/static/js/2.f4709cbe.chunk.js.map",
+    "index.html": "/React-CardDeck-App/index.html",
+    "static/css/main.2a233e95.chunk.css.map": "/React-CardDeck-App/static/css/main.2a233e95.chunk.css.map",
+    "static/js/2.f4709cbe.chunk.js.LICENSE.txt": "/React-CardDeck-App/static/js/2.f4709cbe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.083384f4.js",
+    "static/js/runtime-main.61e2177c.js",
     "static/js/2.f4709cbe.chunk.js",
     "static/css/main.2a233e95.chunk.css",
     "static/js/main.15c2b520.chunk.js"
