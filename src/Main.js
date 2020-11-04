@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Card from "./card";
 import axios from "axios";
+import "./main.css";
 
 export default class Main extends Component {
   constructor(props) {
@@ -9,7 +10,7 @@ export default class Main extends Component {
       id: "",
       draw: [],
       end: false,
-      style: { display: "block" },
+      style: { display: "inline" },
     };
     this.handleClick = this.handleClick.bind(this);
   }
@@ -65,15 +66,16 @@ export default class Main extends Component {
     });
 
     return (
-      <div>
+      <div className="main">
         <button
+          className="button"
           style={this.state.style}
           onClick={this.handleClick}
           type="button"
         >
           draw a card
         </button>
-        {cards}
+        <div className="deck">{cards}</div>
       </div>
     );
   }

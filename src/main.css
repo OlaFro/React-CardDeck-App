@@ -1,0 +1,12 @@
+.button {
+  margin: 4rem 0 0 4rem;
+  height: auto;
+  width: auto;
+  background-color: goldenrod;
+  color: white;
+  font-size: 2rem;
+  padding: 0.8rem;
+  border-radius: 20px;
+  outline: none;
+  font-family: "Times New Roman", Times, serif;
+}
